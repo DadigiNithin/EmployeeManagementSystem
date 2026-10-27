@@ -1,0 +1,12 @@
+body{
+    background-color: aliceblue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: medium;
+}
+form{
+    max-width: 10px;
+    margin: auto;
+}
